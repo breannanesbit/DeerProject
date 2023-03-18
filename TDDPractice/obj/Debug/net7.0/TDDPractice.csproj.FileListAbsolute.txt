@@ -1,0 +1,15 @@
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\bin\Debug\net7.0\TDDPractice.exe
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\bin\Debug\net7.0\TDDPractice.deps.json
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\bin\Debug\net7.0\TDDPractice.runtimeconfig.json
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\bin\Debug\net7.0\TDDPractice.dll
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\bin\Debug\net7.0\TDDPractice.pdb
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.csproj.AssemblyReference.cache
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.AssemblyInfoInputs.cache
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.AssemblyInfo.cs
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.csproj.CoreCompileInputs.cache
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.dll
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\refint\TDDPractice.dll
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.pdb
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\TDDPractice.genruntimeconfig.cache
+C:\Users\brebr\source\repos\TDDPractice\TDDPractice\obj\Debug\net7.0\ref\TDDPractice.dll
